@@ -14,5 +14,5 @@ se necessário utilize o comando pip install + biblioteca desejada
 
 4) Download da versão mais recente do ChromeDriver
 
-https://sites.google.com/chromium.org/driver/downloads A utilizada na data é a versão 92.0.4515.107(https://chromedriver.storage.googleapis.com/index.html?path=92.0.4515.107/)
+https://sites.google.com/chromium.org/driver/downloads A utilizada na data é a versão 94.0.4606.61(https://chromedriver.storage.googleapis.com/index.html?path=94.0.4606.61/)
 
